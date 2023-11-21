@@ -1,5 +1,5 @@
 [Unit]
-Description=Send latest screenshot made in Steam through KDE Connect
+Description=Send latest screenshot made in Steam to Discord via webhook
 
 [Service]
 Type=oneshot
